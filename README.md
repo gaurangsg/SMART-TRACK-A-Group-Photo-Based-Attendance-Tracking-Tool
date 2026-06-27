@@ -120,4 +120,4 @@ smarttrack/
 ---
 
 ## Authors
-Developed by @nikeshh03 and contributors.
+Developed by @gaurangsg and @nikeshh03 and contributors.
